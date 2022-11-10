@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+TODO: fill this up
+
+<a rel="me" href="https://hachyderm.io/@diomedet">Mastodon</a> verification
+
 <!--
 **oeN/oeN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
